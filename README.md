@@ -16,6 +16,9 @@ Hi, I'm [Dinuk Nadishan](https://www.linkedin.com/in/dinuknadishan/), an aspirin
 ### 🌏 Enhancing Pedestrian Safety in Melbourne's Urban Areas
 This project focuses on improving pedestrian safety in Melbourne by leveraging geospatial data and analytical tools to evaluate the steepness of urban footpaths. It provides insights for urban planners and pedestrians to enhance walkability and safety in the city's public spaces.
 
+![Route Picker Screenshot](https://github.com/dTitanium/Melbourne/blob/Dinuk/Enhancing%20Pedestrian%20Safety%20in%20Melbourne's%20Urban%20Areas/images/Route_finder.png)
+
+
 #### 🗝️ Key Highlights
 - **🗺️ Interactive Maps**:
   - Visual representation of footpath steepness across Melbourne.
