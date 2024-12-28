@@ -33,7 +33,7 @@ This project focuses on improving pedestrian safety in Melbourne by leveraging g
 - ✅ Data analysis and visualization completed.
 - 🔄 Actively exploring expansion to other cities and additional accessibility factors.
 
-#### 🔗 [View Project Repository](https://github.com/dTitanium/MOP-Code-dTitanium/tree/Dinuk/Playground/Dinuk/Enhancing%20Pedestrian%20Safety%20in%20Melbourne's%20Urban%20Areas)
+#### 🔗 [View Project Repository](https://github.com/dTitanium/Melbourne)
 
 ---
 
